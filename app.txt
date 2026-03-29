@@ -1,1 +1,1 @@
-Hello world. LEarning merge conflicts from feature branch
+Hello world. LEarning merge conflicts. It is easy
